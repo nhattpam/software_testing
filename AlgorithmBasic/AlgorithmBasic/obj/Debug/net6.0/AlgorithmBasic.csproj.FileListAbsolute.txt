@@ -1,0 +1,15 @@
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\bin\Debug\net6.0\AlgorithmBasic.exe
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\bin\Debug\net6.0\AlgorithmBasic.deps.json
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\bin\Debug\net6.0\AlgorithmBasic.runtimeconfig.json
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\bin\Debug\net6.0\AlgorithmBasic.dll
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\bin\Debug\net6.0\AlgorithmBasic.pdb
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\obj\Debug\net6.0\AlgorithmBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\obj\Debug\net6.0\AlgorithmBasic.AssemblyInfoInputs.cache
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\obj\Debug\net6.0\AlgorithmBasic.AssemblyInfo.cs
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\obj\Debug\net6.0\AlgorithmBasic.csproj.CoreCompileInputs.cache
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\obj\Debug\net6.0\AlgorithmBasic.sourcelink.json
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\obj\Debug\net6.0\AlgorithmBasic.dll
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\obj\Debug\net6.0\refint\AlgorithmBasic.dll
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\obj\Debug\net6.0\AlgorithmBasic.pdb
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\obj\Debug\net6.0\AlgorithmBasic.genruntimeconfig.cache
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\AlgorithmBasic\obj\Debug\net6.0\ref\AlgorithmBasic.dll
