@@ -1,0 +1,15 @@
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\bin\Debug\net6.0\ReverseString.exe
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\bin\Debug\net6.0\ReverseString.deps.json
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\bin\Debug\net6.0\ReverseString.runtimeconfig.json
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\bin\Debug\net6.0\ReverseString.dll
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\bin\Debug\net6.0\ReverseString.pdb
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\obj\Debug\net6.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfoInputs.cache
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfo.cs
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\obj\Debug\net6.0\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\obj\Debug\net6.0\ReverseString.sourcelink.json
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\obj\Debug\net6.0\ReverseString.dll
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\obj\Debug\net6.0\refint\ReverseString.dll
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\obj\Debug\net6.0\ReverseString.pdb
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\obj\Debug\net6.0\ReverseString.genruntimeconfig.cache
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\ReverseString\obj\Debug\net6.0\ref\ReverseString.dll
