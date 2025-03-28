@@ -1,0 +1,15 @@
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\bin\Debug\net6.0\LinearSearch.exe
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\bin\Debug\net6.0\LinearSearch.deps.json
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\bin\Debug\net6.0\LinearSearch.runtimeconfig.json
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\bin\Debug\net6.0\LinearSearch.dll
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\bin\Debug\net6.0\LinearSearch.pdb
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\obj\Debug\net6.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\obj\Debug\net6.0\LinearSearch.AssemblyInfoInputs.cache
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\obj\Debug\net6.0\LinearSearch.AssemblyInfo.cs
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\obj\Debug\net6.0\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\obj\Debug\net6.0\LinearSearch.sourcelink.json
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\obj\Debug\net6.0\LinearSearch.dll
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\obj\Debug\net6.0\refint\LinearSearch.dll
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\obj\Debug\net6.0\LinearSearch.pdb
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\obj\Debug\net6.0\LinearSearch.genruntimeconfig.cache
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\LinearSearch\obj\Debug\net6.0\ref\LinearSearch.dll
