@@ -2,36 +2,36 @@
 
 class Program
 {
-    static int BinarySearch(int[] arr, int target)
+    static void Main(string[] args)
     {
-        int left = 0, right = arr.Length - 1;
-
-        while (left <= right) // Lặp khi còn phần tử để tìm
+        int[] array = { 5, 6, 7, 8, 2, 1 };
+        Array.Sort(array); // Sắp xếp mảng trước khi tìm kiếm
+        int target = 8;
+        int result = BinarySearch(array, target);
+        if (result != -1)
         {
-            int mid = left + (right - left) / 2; // Tìm phần tử giữa
-
-            if (arr[mid] == target) // Nếu phần tử giữa là target
-                return mid;
-
-            if (arr[mid] < target) // Nếu target lớn hơn, tìm nửa phải
-                left = mid + 1;
-            else // Nếu target nhỏ hơn, tìm nửa trái
-                right = mid - 1;
+            Console.Write($"Found {target} at index {result}");
         }
-
-        return -1; // Không tìm thấy
+        else
+        {
+            Console.Write($"Cannot found {target}");
+        }
     }
 
-    static void Main()
+    static int BinarySearch(int[] array, int target)
     {
-        int[] numbers = { 10, 20, 30, 40, 50 }; // Mảng phải được sắp xếp
-        int target = 30;
+        int left = 0; int right = array.Length - 1;
+        while (left <= right)
+        {
+            int mid = left + (right - left) / 2;
 
-        int result = BinarySearch(numbers, target);
-
-        if (result != -1)
-            Console.WriteLine($"Tìm thấy {target} tại vị trí {result}");
-        else
-            Console.WriteLine($"{target} không có trong mảng");
+            if (array[mid] == target)
+                return mid;
+            if (array[mid] < target)
+                left = mid + 1;
+            else
+                right = mid - 1;
+        }
+        return -1;
     }
 }
