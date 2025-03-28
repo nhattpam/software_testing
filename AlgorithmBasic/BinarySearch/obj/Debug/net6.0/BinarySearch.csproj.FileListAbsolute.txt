@@ -1,0 +1,15 @@
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\obj\Debug\net6.0\BinarySearch.sourcelink.json
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\obj\Debug\net6.0\refint\BinarySearch.dll
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache
+C:\Users\nhattpam\Documents\Work\software_testing\AlgorithmBasic\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll
