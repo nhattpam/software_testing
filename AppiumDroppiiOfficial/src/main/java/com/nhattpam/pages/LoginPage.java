@@ -30,4 +30,13 @@ public class LoginPage {
         passwordField.sendKeys(password);
         loginButton.click();
     }
+
+    public WebElement getLoginButton() {
+        return loginButton;
+    }
+
+//    public WebElement getLoginTitleElement() {
+//        return loginTitleElement;
+//    }
+
 }

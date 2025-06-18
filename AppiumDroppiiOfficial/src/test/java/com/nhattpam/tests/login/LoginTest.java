@@ -1,4 +1,4 @@
-package com.nhattpam.tests;
+package com.nhattpam.tests.login;
 
 import com.nhattpam.pages.LoginPage;
 import com.nhattpam.utils.BaseTest;
@@ -18,6 +18,6 @@ public class LoginTest extends BaseTest {
 
     @Test
     public void testLogin() {
-        this.loginPage.login("testuser", "testpass");
+        this.loginPage.login("lollol", "123456");
     }
 }
